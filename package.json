@@ -1,0 +1,13 @@
+{
+  "name": "agendamento-clinicas-mvp",
+  "version": "0.1.0",
+  "description": "MVP arquitetural: sistema de agendamento para clínicas (monólito modular em 4 camadas, LGPD)",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node --test",
+    "demo": "node scripts/demo.js"
+  }
+}
